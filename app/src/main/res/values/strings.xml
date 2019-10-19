@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flowers</string>
+
+    <string name="styled_login_sign_in"> Don\'t have an account? <b> SING UP </b> </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">CATEGORISE</string>
+    <string name="title_notifications">MY TRIPS</string>
+    <string name="title_activity_navigation__bottom">Navigation_Bottom</string>
+</resources>
+

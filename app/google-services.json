@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482161066760",
+    "firebase_url": "https://flowers-41fd6.firebaseio.com",
+    "project_id": "flowers-41fd6",
+    "storage_bucket": "flowers-41fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482161066760:android:7a86345c17f181eb8be2bd",
+        "android_client_info": {
+          "package_name": "com.example.flowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482161066760-0fh2eckqif0nsch526gm0epbv7a3h65g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowers",
+            "certificate_hash": "95ccaffc6411307e967ae36bb6cab9f79259530f"
+          }
+        },
+        {
+          "client_id": "482161066760-m33ksjab95ivj1lmv9gipqpca2o8d6ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48fdQtMepXNyfF0LswOiZl3DeJOfaXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482161066760-m33ksjab95ivj1lmv9gipqpca2o8d6ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
